@@ -1,0 +1,4 @@
+Integers: [10, 25, 5, 42, 7, 18]
+Maximum: 42
+Minimum: 5
+Sum: 107
