@@ -2,6 +2,10 @@
 
 This Python program reads integers from an input file, calculates their maximum, minimum, and sum, and writes the results to an output file.
 
+## Project Timeline
+- **Creation Date**: August 3, 2023
+- **Uploaded to GitHub**: 2024
+
 ## Features
 
 - Reads a list of integers from a text file.
