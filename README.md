@@ -47,5 +47,3 @@ Minimum: 5
 
 Sum: 107
 
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
